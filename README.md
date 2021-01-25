@@ -14,9 +14,13 @@ MotherBoard: AsRock Steel Legend B450M
 RAM: 16GB (2x8GB) 3000Mhz HyperX Vengeance
 
 CPU: Ryzen 5 3600 without OC
-Video: RX 5500XT 8GB,
-HD: 2Tb WD,
-SSD: 120Gb Sata WD,
+
+Video: RX 5500XT 8GB
+
+HD: 2Tb WD
+
+SSD: 120Gb Sata WD
+
 SSD M2: 480Gb MD
 
 Any question just open a issue and i'll try to help! 
